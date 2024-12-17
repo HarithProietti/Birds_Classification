@@ -1,3 +1,5 @@
+# Birds Classification
+
 This project consisted in classifying pictures of birds, taken from different angles and with different resolutions.
 
 My approach was the following : 
